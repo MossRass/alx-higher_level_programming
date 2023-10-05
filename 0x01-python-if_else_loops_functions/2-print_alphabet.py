@@ -1,7 +1,3 @@
-
-i!/ulphabet.py
-
-
 #!/usr/bin/python3
 
 # 2-print_alphabet.py
@@ -11,4 +7,4 @@ i!/ulphabet.py
 
 for letter in range(97, 123):
 
-        print("{}".format(chr(letter)), end="")sr/bin/python3
+        print("{}".format(chr(letter)), end="")
